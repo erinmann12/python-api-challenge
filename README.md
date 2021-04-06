@@ -35,3 +35,9 @@ In part two of this project (VacationPy), I was tasked with creating a heat map 
 
 ![](https://github.com/erinmann12/python-api-challenge/blob/main/VacationPy/Images/datasample.PNG)
 
+----------------------------------------------------------------------------------------------------------------------------
+
+Erin Mann
+
+erin.mann2019@gmail.com
+
